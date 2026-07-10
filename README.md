@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="portfolio-preview.png" alt="Portfolio Preview" width="100%">
+</p>
+
 # Ali Raza - Portfolio
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
