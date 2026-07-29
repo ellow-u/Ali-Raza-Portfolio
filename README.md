@@ -9,9 +9,9 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 ## 🚀 Live Demo
 
 https://aliraza-portfolio-1.netlify.app/
-Other Projects
-https://savoriarestraunt.netlify.app/
-https://noirtheagency.netlify.app/
+- Other Projects
+- https://savoriarestraunt.netlify.app/
+- https://noirtheagency.netlify.app/
 
 ## ✨ Features
 
